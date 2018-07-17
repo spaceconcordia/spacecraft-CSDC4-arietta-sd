@@ -1,0 +1,9 @@
+sshd:100000:65536
+systemd-timesync:165536:65536
+systemd-network:231072:65536
+systemd-resolve:296608:65536
+systemd-bus-proxy:362144:65536
+acme:427680:65536
+messagebus:558752:65536
+avahi:624288:65536
+ntp:689824:65536

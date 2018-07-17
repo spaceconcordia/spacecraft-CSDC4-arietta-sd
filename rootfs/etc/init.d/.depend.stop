@@ -1,0 +1,8 @@
+TARGETS = apache2 avahi-daemon hwclock.sh urandom sendsigs umountnfs.sh networking umountfs umountroot halt reboot
+sendsigs: avahi-daemon apache2
+umountnfs.sh: avahi-daemon sendsigs apache2
+networking: umountnfs.sh apache2
+umountfs: networking umountnfs.sh avahi-daemon apache2 urandom hwclock.sh
+umountroot: umountfs
+halt: umountroot
+reboot: umountroot

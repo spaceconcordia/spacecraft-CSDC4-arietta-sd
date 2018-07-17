@@ -1,0 +1,5 @@
+bfa961ed634b3f54a49c38b2c88537cc  /etc/php5/mods-available/pdo.ini
+f86ffe2c2484c9880820c98fdb9b69e4  /etc/php5/mods-available/opcache.ini
+04d2378963688a881deb69b0441f2a80  /etc/php5/mods-available/readline.ini
+06544942c110198bb3bd435af56aff90  /etc/php5/cli/php.ini
+9b87afb1317df49f19f4a86dbfac621b  /etc/php5/apache2/php.ini

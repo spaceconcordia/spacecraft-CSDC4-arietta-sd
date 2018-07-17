@@ -1,0 +1,31 @@
+update-alternatives 2007-01-01 01:38:34: run with --install /usr/bin/php php /usr/bin/php5 50 --slave /usr/share/man/man1/php.1.gz php.1.gz /usr/share/man/man1/php5.1.gz
+update-alternatives 2007-01-01 01:38:34: link group php updated to point to /usr/bin/php5
+update-alternatives 2007-01-01 10:54:21: run with --quiet --install /lib/cpp cpp /usr/bin/cpp 10
+update-alternatives 2007-01-01 10:54:21: link group cpp updated to point to /usr/bin/cpp
+update-alternatives 2007-01-01 10:54:22: run with --quiet --install /usr/bin/cc cc /usr/bin/gcc 20
+update-alternatives 2007-01-01 10:54:22: link group cc updated to point to /usr/bin/gcc
+update-alternatives 2007-01-01 10:54:22: run with --quiet --install /usr/bin/c89 c89 /usr/bin/c89-gcc 20 --slave /usr/share/man/man1/c89.1.gz c89.1.gz /usr/share/man/man1/c89-gcc.1.gz
+update-alternatives 2007-01-01 10:54:22: link group c89 updated to point to /usr/bin/c89-gcc
+update-alternatives 2007-01-01 10:54:22: run with --quiet --install /usr/bin/c99 c99 /usr/bin/c99-gcc 20 --slave /usr/share/man/man1/c99.1.gz c99.1.gz /usr/share/man/man1/c99-gcc.1.gz
+update-alternatives 2007-01-01 10:54:22: link group c99 updated to point to /usr/bin/c99-gcc
+update-alternatives 2007-01-01 11:41:16: run with --install /usr/bin/c++ c++ /usr/bin/g++ 20
+update-alternatives 2007-01-01 11:41:16: link group c++ updated to point to /usr/bin/g++
+update-alternatives 2016-03-03 19:50:04: run with --install /usr/bin/rename rename /usr/bin/prename 60 --slave /usr/share/man/man1/rename.1.gz rename.1.gz /usr/share/man/man1/prename.1.gz
+update-alternatives 2016-03-03 19:51:11: run with --quiet --remove rlogin /usr/bin/ssh
+update-alternatives 2016-03-03 19:51:11: run with --quiet --remove rcp /usr/bin/ssh
+update-alternatives 2016-03-03 19:54:45: run with --install /usr/bin/php php /usr/bin/php5 50 --slave /usr/share/man/man1/php.1.gz php.1.gz /usr/share/man/man1/php5.1.gz
+update-alternatives 2016-03-03 19:54:45: run with --install /usr/bin/phar phar /usr/bin/phar5 50 --slave /usr/share/man/man1/phar.1.gz phar.1.gz /usr/share/man/man1/phar5.1.gz
+update-alternatives 2016-03-03 19:54:45: link group phar updated to point to /usr/bin/phar5
+update-alternatives 2016-04-26 13:36:50: run with --install /usr/bin/rename rename /usr/bin/prename 60 --slave /usr/share/man/man1/rename.1.gz rename.1.gz /usr/share/man/man1/prename.1.gz
+update-alternatives 2016-04-26 13:38:06: run with --install /usr/bin/php php /usr/bin/php5 50 --slave /usr/share/man/man1/php.1.gz php.1.gz /usr/share/man/man1/php5.1.gz
+update-alternatives 2016-04-26 13:38:06: run with --install /usr/bin/phar phar /usr/bin/phar5 50 --slave /usr/share/man/man1/phar.1.gz phar.1.gz /usr/share/man/man1/phar5.1.gz
+update-alternatives 2017-08-03 15:24:24: run with --remove builtins.7.gz /usr/share/man/man7/bash-builtins.7.gz
+update-alternatives 2017-08-03 15:24:24: link group builtins.7.gz fully removed
+update-alternatives 2017-08-03 15:24:37: run with --install /usr/share/man/man7/builtins.7.gz builtins.7.gz /usr/share/man/man7/bash-builtins.7.gz 10
+update-alternatives 2017-08-03 15:24:37: link group builtins.7.gz updated to point to /usr/share/man/man7/bash-builtins.7.gz
+update-alternatives 2017-08-03 15:38:04: run with --install /usr/sbin/rmt rmt /usr/sbin/rmt-tar 50 --slave /usr/share/man/man8/rmt.8.gz rmt.8.gz /usr/share/man/man8/rmt-tar.8.gz
+update-alternatives 2017-08-03 16:03:32: run with --install /usr/bin/rename rename /usr/bin/prename 60 --slave /usr/share/man/man1/rename.1.gz rename.1.gz /usr/share/man/man1/prename.1.gz
+update-alternatives 2017-08-03 16:05:35: run with --quiet --remove rlogin /usr/bin/ssh
+update-alternatives 2017-08-03 16:05:35: run with --quiet --remove rcp /usr/bin/ssh
+update-alternatives 2017-08-03 16:09:40: run with --install /usr/bin/php php /usr/bin/php5 50 --slave /usr/share/man/man1/php.1.gz php.1.gz /usr/share/man/man1/php5.1.gz
+update-alternatives 2017-08-03 16:09:40: run with --install /usr/bin/phar phar /usr/bin/phar5 50 --slave /usr/share/man/man1/phar.1.gz phar.1.gz /usr/share/man/man1/phar5.1.gz

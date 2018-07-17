@@ -1,0 +1,6 @@
+TARGETS = apache2 killprocs dbus bootlogs motd rsync ntp ssh avahi-daemon single rmnologin rc.local
+INTERACTIVE = apache2
+avahi-daemon: dbus
+single: killprocs bootlogs motd
+rmnologin: avahi-daemon dbus apache2 bootlogs motd rsync ntp ssh
+rc.local: avahi-daemon dbus apache2 bootlogs motd rsync ntp ssh

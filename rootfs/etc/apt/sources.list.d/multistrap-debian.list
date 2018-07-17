@@ -1,0 +1,2 @@
+deb [arch=armel] http://cdn.debian.net/debian/ jessie main contrib non-free
+deb-src http://cdn.debian.net/debian/ jessie main contrib non-free
